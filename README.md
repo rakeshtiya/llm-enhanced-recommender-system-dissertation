@@ -30,6 +30,7 @@ The project follows a multi-stage analytical pipeline:
 ---
 
 ## Repository Structure
+
 LLM_RECSYS_DISSERTATION/
 ├── notebooks/ # Jupyter notebooks (numbered in execution order)
 ├── src/ # Reusable Python scripts and pipeline code
